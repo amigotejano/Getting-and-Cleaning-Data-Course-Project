@@ -1,3 +1,3 @@
 # Getting-and-Cleaning-Data-Course-Project
 The script "run_analysis.R" works on the Samsung datasets to extract mean and standard deviation measurements to calculate 
-the averaged values of an individual in an activity and export its output as a table to "tidy.txt".
+the averaged values of an individual in an activity and export its output as a table to "tidy.txt". Detail is contained in the comments of the R script itself.
